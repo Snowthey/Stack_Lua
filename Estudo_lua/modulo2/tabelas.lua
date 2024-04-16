@@ -25,3 +25,4 @@ local f = {
 
 -- print(f['nome']) NÂO FAZER
 -- print(f.nome) melhor maneira
+
